@@ -52,7 +52,8 @@ body {
 
 .foto-roupa {
   width: 100%;
-  height: auto;
+  height: 320px;
+  object-fit: cover;
   border-radius: 8px;
 }
 
